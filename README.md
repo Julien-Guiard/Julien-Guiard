@@ -9,7 +9,7 @@ In my free time I enjoy working on personal projects that can make a difference 
 
 ---
 
-I am currently working on my Next.js portfolio which I will deploy through GitHub Pages. 
+I am currently working on a friend's portfolio which I will deploy through GitHub Pages, i'm also looking to improve mine (you can find the link in my profile on the left). 
 
 Other than that, I have worked on a variety of projects, most notably [codeclicker](https://codeclicker.dev/), which is a fun and interactive idle clicker game featuring lighthearted references to the process of learning how to code. I built it with the help of four other students over the course of a month. It was a really fun project which taught me a lot about web development, deployment, design, data management, and many other things.
 <p align="center">
